@@ -1,0 +1,8 @@
+openai
+streamlit
+pydantic
+fastapi
+uvicorn
+httpx
+streamlit-chat
+python-dotenv
