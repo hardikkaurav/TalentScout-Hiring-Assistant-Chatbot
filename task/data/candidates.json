@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Alice",
+    "email": "alice@example.com",
+    "phone": "+1234567890",
+    "experience": 4,
+    "position": "Backend Developer",
+    "location": "Bangalore",
+    "tech_stack": [
+      "Python",
+      "Django",
+      "PostgreSQL"
+    ],
+    "questions": [
+      "What is the difference between a list and tuple in Python?",
+      "How does Django's ORM work?",
+      "Explain ACID properties in PostgreSQL.",
+      "What are Python decorators?",
+      "How do you optimize database queries in Django?"
+    ]
+  },
+  {
+    "name": "Test User",
+    "email": "test@example.com",
+    "phone": "+1234567890",
+    "experience": 3,
+    "position": "Developer",
+    "location": "Test City",
+    "tech_stack": [
+      "Python",
+      "Django"
+    ],
+    "questions": []
+  },
+  {
+    "name": "Test User",
+    "email": "test@example.com",
+    "phone": "+1234567890",
+    "experience": 3,
+    "position": "Developer",
+    "location": "Test City",
+    "tech_stack": [
+      "Python",
+      "Django"
+    ],
+    "questions": []
+  },
+  {
+    "name": "Test User",
+    "email": "test@example.com",
+    "phone": "+1234567890",
+    "experience": 3,
+    "position": "Developer",
+    "location": "Test City",
+    "tech_stack": [
+      "Python",
+      "Django"
+    ],
+    "questions": []
+  },
+  {
+    "name": "hardik kaurav",
+    "email": "hardik.14.rk@gmail.com",
+    "phone": "9325046069",
+    "experience": 1,
+    "position": "LLM",
+    "location": "ponda",
+    "tech_stack": [
+      "python"
+    ],
+    "questions": [
+      "## Python Interview Questions:\n\nHere are 3-5 domain-specific technical interview questions for Python, categorized for clarity:\n\n\n**1. Data Structures & Algorithms:**\n\n* **Question 1:**  Describe the time and space complexity of different sorting algorithms in Python (e.g., merge sort, quicksort, bubble sort).  Explain when you might choose one over another.  Provide code examples illustrating at least one of your choices.\n* **Question 2:** You are given a list of dictionaries, where each dictionary represents a product with a name and price. Write a Python function that efficiently finds the product with the highest price.  Explain your approach and its time complexity.\n* **Question 3:**  Implement a function to check if a given string is a palindrome (reads the same forwards and backward), ignoring case and non-alphanumeric characters.  Discuss the efficiency of your solution.\n\n\n**2. Object-Oriented Programming (OOP):**\n\n* **Question 1:** Explain the four main principles of OOP (encapsulation, inheritance, polymorphism, abstraction) and provide a Python example demonstrating at least two of them.  Focus on a practical scenario, such as modeling a system of bank accounts.\n* **Question 2:**  Describe the difference between composition and inheritance in OOP. Provide examples demonstrating when you would prefer one over the other.\n\n\n**3. Concurrency & Parallelism:**\n\n* **Question 1:** Explain the difference between threads and processes in Python. When would you choose to use one over the other?  Provide an example demonstrating the use of the `threading` or `multiprocessing` library for a simple task such as calculating the sum of numbers in a large list.\n* **Question 2:**  Describe the concept of a deadlock in concurrent programming.  Explain how deadlocks can be avoided and provide a simple Python example illustrating a potential deadlock situation.\n\n\n**4. Web Development (using frameworks like Flask or Django):**\n\n* **Question 1 (Flask):**  You are building a RESTful API using Flask.  Explain how you would handle routing, request handling, and returning JSON responses.  Provide a code snippet demonstrating a simple API endpoint that takes a user's name and returns a greeting.\n* **Question 2 (Django):**  Describe the Model-View-Controller (MVC) architecture and how it's implemented in Django.  Explain the role of models, views, and templates in a Django application.  How would you handle database interactions in a Django project?\n\n\n**5. Testing & Debugging:**\n\n* **Question 1:** Explain the importance of unit testing and how you would write unit tests for a Python function using a testing framework like `unittest` or `pytest`. Provide an example of a simple unit test.\n* **Question 2:** Describe your debugging process. What tools and techniques do you use to identify and fix bugs in your Python code?  How do you approach debugging complex issues?\n\n\nThese questions are designed to assess not only the candidate's knowledge but also their problem-solving abilities and their ability to explain technical concepts clearly.  The difficulty and specifics can be adjusted based on the seniority level of the position. Remember to encourage the candidate to explain their reasoning and thought process.\n"
+    ]
+  },
+  {
+    "name": "hardik kaurav",
+    "email": "hardik.14.rk@gmail.com",
+    "phone": "9325046069",
+    "experience": 1,
+    "position": "LLM",
+    "location": "ponda",
+    "tech_stack": [
+      "python"
+    ],
+    "questions": [
+      "Error generating questions: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyAbICT0sauIPKuExqK5qack7QGxFbK9v4c"
+    ]
+  },
+  {
+    "name": "hardik kaurav",
+    "email": "hardik.14.rk@gmail.com",
+    "phone": "9325046069",
+    "experience": 1,
+    "position": "LLM",
+    "location": "ponda",
+    "tech_stack": [
+      "python"
+    ],
+    "questions": [
+      "Error generating questions: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyAbICT0sauIPKuExqK5qack7QGxFbK9v4c"
+    ]
+  },
+  {
+    "name": "hardik kaurav",
+    "email": "hardik.14.rk@gmail.com",
+    "phone": "9325046069",
+    "experience": 1,
+    "position": "LLM",
+    "location": "ponda",
+    "tech_stack": [
+      "python"
+    ],
+    "questions": [
+      "**Domain:** Data Analysis/Science",
+      "**Domain:** Web Development",
+      "**Domain:** Scripting/Automation",
+      "**Domain:** Backend Development/API",
+      "**Domain:** Machine Learning/Data Science"
+    ]
+  }
+]
